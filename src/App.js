@@ -18,7 +18,8 @@ class App extends Component{
     'A vida é uma jornada cheia de surpresas e aprendizados.',
     'Sua criatividade é uma fonte infinita de possibilidades.',
     'Sorria, contagie o mundo com sua alegria.',
-    'A gratidão transforma pequenos gestos em grandes momentos.']
+    'A gratidão transforma pequenos gestos em grandes momentos.',
+    'Acredite que você consegue!']
   }
 
   quebraBiscoito(){
